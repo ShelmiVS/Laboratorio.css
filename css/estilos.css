@@ -137,3 +137,22 @@ footer {
     }
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+.imagen-pequeña {
+    width: 60%;
+    max-width: 600px;
+}
+
+.imagen-servicio {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+}
