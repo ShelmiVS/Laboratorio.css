@@ -61,7 +61,7 @@ Editar
 ## Instrucciones para clonar y visualizar el proyecto 💻
 
 ```bash
-git clone https://github.com/TU-USUARIO/emprendimiento-digital.git
+git clone https://github.com/ShelmiVS/emprendimiento-digital.git
 Luego, abre el archivo index.html en tu navegador preferido.
 
 Autor ✒️
